@@ -2,4 +2,5 @@
 <br/>
 <a href="http://blog.woniper.net/230">[spring] spring boot-1(특징과 기본 설정)</a><br/>
 <a href="http://blog.woniper.net/231">[spring] spring boot-2(프로젝트 구조와 Tomcat 연동 및 proerties사용)</a><br/>
-<a href="http://blog.woniper.net/232">[spring] spring boot-3(JPA, Velocity 설정과 사용)</a>
+<a href="http://blog.woniper.net/232">[spring] spring boot-3(JPA, Velocity 설정과 사용)</a><br/>
+<a href="http://blog.woniper.net/233">[spring] spring boot-4(Velocity 설정과 사용)</a>
